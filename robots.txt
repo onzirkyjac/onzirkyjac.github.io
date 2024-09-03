@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onzirkyjac.github.io/sitemap.html.gz
+Sitemap: https://onzirkyjac.github.io/app/sitemap.html.gz
+Sitemap: https://onzirkyjac.github.io/assets/sitemap.html.gz
+Sitemap: https://onzirkyjac.github.io/css/sitemap.html.gz
+Sitemap: https://onzirkyjac.github.io/includes/sitemap.html.gz
+Sitemap: https://onzirkyjac.github.io/item/sitemap.html.gz
+Sitemap: https://onzirkyjac.github.io/src/sitemap.html.gz
